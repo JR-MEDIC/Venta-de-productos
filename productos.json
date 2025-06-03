@@ -1,0 +1,1493 @@
+[
+  {
+    "nombre": "Agitador de tubos",
+    "descripcion": "Mezcla muestras en tubos de ensayo.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 120.00,
+    "imagen": "Img/Agitador de tubos.jpg"
+  },
+  {
+    "nombre": "Agitador orbital",
+    "descripcion": "Dispositivo para mezcla suave de muestras.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 350.00,
+    "imagen": "Img/Agitador orbital.jpg"
+  },
+  {
+    "nombre": "Agitador para bolsas de sangre",
+    "descripcion": "Homogeneiza bolsas de sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 420.00,
+    "imagen": "Img/Agitador para bolsas de sangre.jpg"
+  },
+  {
+    "nombre": "Amnioscopio",
+    "descripcion": "Instrumento para examinar el saco amniótico durante el embarazo.",
+    "categoria": "Equipo médico",
+    "precio": 850.00,
+    "imagen": "Img/Amnioscopio.jpg"
+  },
+  {
+    "nombre": "Analizador automático de coombs",
+    "descripcion": "Detecta anticuerpos en sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Analizador automático de coombs.jpg"
+  },
+  {
+    "nombre": "Analizador automático de hemocultivo",
+    "descripcion": "Identifica microorganismos en sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 4500.00,
+    "imagen": "Img/Analizador automático de hemocultivo.jpg"
+  },
+  {
+    "nombre": "Analizador automático para microbiología",
+    "descripcion": "Diagnóstico automatizado de infecciones.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Analizador automático para microbiología.jpg"
+  },
+  {
+    "nombre": "Analizador automático de inmunoserología",
+    "descripcion": "Detecta anticuerpos y antígenos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 4800.00,
+    "imagen": "Img/Analizador automático de inmunoserología.jpg"
+  },
+  {
+    "nombre": "Analizador bioquímico automatizado",
+    "descripcion": "Realiza análisis químicos en sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6800.00,
+    "imagen": "Img/Analizador bioquímico automatizado.png"
+  },
+  {
+    "nombre": "Analizador bioquímico semi automático",
+    "descripcion": "Versión manual para análisis bioquímicos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3800.00,
+    "imagen": "Img/Analizador bioquímico semi automático.jpeg"
+  },
+  {
+    "nombre": "Analizador de electrolitos y gases en sangre portátil",
+    "descripcion": "Mide parámetros sanguíneos en campo.",
+    "categoria": "Equipo médico",
+    "precio": 5500.00,
+    "imagen": "Img/Analizador de electrolitos y gases en sangre portátil.jpg"
+  },
+  {
+    "nombre": "Analizador de electrolitos y gases en la sangre",
+    "descripcion": "Equipo estándar para análisis sanguíneo.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 7200.00,
+    "imagen": "Img/Analizador de electrolitos y gases en la sangre.jpg"
+  },
+  {
+    "nombre": "Analizador de gases electrolitos y metabolitos",
+    "descripcion": "Monitorea equilibrio ácido-base.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6500.00,
+    "imagen": "Img/Analizador de gases electrolitos y metabolitos.png"
+  },
+  {
+    "nombre": "Analizador de inmunoensayo",
+    "descripcion": "Detecta marcadores inmunológicos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5900.00,
+    "imagen": "Img/Analizador de inmunoensayo.png"
+  },
+  {
+    "nombre": "Analizador hematológico",
+    "descripcion": "Cuantifica células sanguíneas.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 7800.00,
+    "imagen": "Img/Analizador hematológico.jpg"
+  },
+  {
+    "nombre": "Analizador inmunológico",
+    "descripcion": "Diagnóstico de enfermedades autoinmunes.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6200.00,
+    "imagen": "Img/Analizador inmunológico.png"
+  },
+  {
+    "nombre": "Analizadores automáticos de grupos sanguíneo",
+    "descripcion": "Determina tipos de sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5400.00,
+    "imagen": "Img/Analizadores automáticos de grupos sanguíneo.jpg"
+  },
+  {
+    "nombre": "Aspirador de secreción portatil",
+    "descripcion": "Elimina fluidos corporales en emergencias.",
+    "categoria": "Equipo médico",
+    "precio": 450.00,
+    "imagen": "Img/Aspirador de secreción portatil.jpg"
+  },
+  {
+    "nombre": "Aspirador de secreciones de sobremesa",
+    "descripcion": "Aspiración clínica estacionaria.",
+    "categoria": "Equipo médico",
+    "precio": 680.00,
+    "imagen": "Img/Aspirador de secreciones de sobremesa.jpg"
+  },
+  {
+    "nombre": "Aspirador de secreciones rodable",
+    "descripcion": "Unidad móvil para succión hospitalaria.",
+    "categoria": "Equipo médico",
+    "precio": 890.00,
+    "imagen": "Img/Aspirador de secreciones rodable.jpg"
+  },
+  {
+    "nombre": "Aspirador de secreciones rodable para red de vacío",
+    "descripcion": "Sistema integrado de aspiración.",
+    "categoria": "Equipo médico",
+    "precio": 1200.00,
+    "imagen": "Img/Aspirador de secreciones rodable para red de vacío.jpg"
+  },
+  {
+    "nombre": "Balanza analítica (200 a 500 g)",
+    "descripcion": "Pesaje de alta precisión.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 950.00,
+    "imagen": "Img/Balanza analítica (200 a 500 g).jpg"
+  },
+  {
+    "nombre": "Balanza analítica de precisión",
+    "descripcion": "Mediciones exactas para laboratorio.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1100.00,
+    "imagen": "Img/Balanza analítica de precisión.jpg"
+  },
+  {
+    "nombre": "Balanza de diferencial para bolsas de sangre",
+    "descripcion": "Control de peso en transfusiones.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 750.00,
+    "imagen": "Img/Balanza de diferencial para bolsas de sangre.png"
+  },
+  {
+    "nombre": "Balanza de dos platillos de 2k",
+    "descripcion": "Balanza de comparación.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 580.00,
+    "imagen": "Img/Balanza de dos platillos de 2k.jpg"
+  },
+  {
+    "nombre": "Balanza de precisión 2k",
+    "descripcion": "Pesaje exacto en laboratorio.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 620.00,
+    "imagen": "Img/Balanza de precisión 2k.png"
+  },
+  {
+    "nombre": "Balanza digital para pesar órganos",
+    "descripcion": "Uso en trasplantes y anatomía patológica.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 850.00,
+    "imagen": "Img/Balanza digital para pesar órganos.jpg"
+  },
+  {
+    "nombre": "Baño maria de 10 a 15 litros",
+    "descripcion": "Calentamiento uniforme de muestras.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 450.00,
+    "imagen": "Img/Baño maria de 10 a 15 litros.png"
+  },
+  {
+    "nombre": "Baño maria de 20 a 25 litros",
+    "descripcion": "Versión de mayor capacidad.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 680.00,
+    "imagen": "Img/Baño maria de 20 a 25 litros.jpg"
+  },
+  {
+    "nombre": "Bomba de infusión 3 canales",
+    "descripcion": "Administración simultánea de fármacos.",
+    "categoria": "Equipo médico",
+    "precio": 2200.00,
+    "imagen": "Img/Bomba de infusión 3 canales.png"
+  },
+  {
+    "nombre": "Bomba de infusión de 1 canal",
+    "descripcion": "Infusión controlada de medicamentos.",
+    "categoria": "Equipo médico",
+    "precio": 950.00,
+    "imagen": "Img/Bomba de infusión de 1 canal.png"
+  },
+  {
+    "nombre": "Bomba de infusión de 2 canales",
+    "descripcion": "Dosificación dual intravenosa.",
+    "categoria": "Equipo médico",
+    "precio": 1500.00,
+    "imagen": "Img/Bomba de infusión de 2 canales.jpg"
+  },
+  {
+    "nombre": "Bomba de infusión de jeringa",
+    "descripcion": "Precisión en infusiones críticas.",
+    "categoria": "Equipo médico",
+    "precio": 1800.00,
+    "imagen": "Img/Bomba de infusión de jeringa.jpg"
+  },
+  {
+    "nombre": "Broncofibroscopio",
+    "descripcion": "Endoscopio flexible para vías respiratorias.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Broncofibroscopio.jpg"
+  },
+  {
+    "nombre": "Broncoscopio rígido",
+    "descripcion": "Endoscopio para procedimientos bronquiales.",
+    "categoria": "Equipo médico",
+    "precio": 9800.00,
+    "imagen": "Img/Broncoscopio rígido.jpg"
+  },
+  {
+    "nombre": "Cabina de flujo laminar horizontal",
+    "descripcion": "Protección de muestras en laboratorio.",
+    "categoria": "Bioseguridad",
+    "precio": 3500.00,
+    "imagen": "Img/Cabina de flujo laminar horizontal.jpg"
+  },
+  {
+    "nombre": "Calentador corporal",
+    "descripcion": "Mantiene temperatura en pacientes.",
+    "categoria": "Equipo médico",
+    "precio": 1200.00,
+    "imagen": "Img/Calentador corporal.jpg"
+  },
+  {
+    "nombre": "Calentador para sangre / soluciones",
+    "descripcion": "Previene hipotermia en transfusiones.",
+    "categoria": "Equipo médico",
+    "precio": 850.00,
+    "imagen": "Img/Calentador para sangre.jpg"
+  },
+  {
+    "nombre": "Campana extractora para manejo de materiales / Medicina nuclear",
+    "descripcion": "Contiene vapores peligrosos.",
+    "categoria": "Bioseguridad",
+    "precio": 4200.00,
+    "imagen": "Img/Campana extractora para manejo de materiales.png"
+  },
+  {
+    "nombre": "Campana para anaerobiosis",
+    "descripcion": "Cultivo de bacterias anaerobias.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 2800.00,
+    "imagen": "Img/Campana para anaerobiosis.jpg"
+  },
+  {
+    "nombre": "Centrífuga inmunohematológica",
+    "descripcion": "Procesamiento de muestras sanguíneas.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Centrífuga inmunohematológica.jpg"
+  },
+  {
+    "nombre": "Centrífuga para 12 tubos",
+    "descripcion": "Separación de componentes sanguíneos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1500.00,
+    "imagen": "Img/Centrífuga para 12 tubos.jpg"
+  },
+  {
+    "nombre": "Centrífuga para 24 tubos",
+    "descripcion": "Mayor capacidad para procesamiento de muestras.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 2100.00,
+    "imagen": "Img/Centrífuga para 24 tubos.jpg"
+  },
+  {
+    "nombre": "Centrífuga para microhematocrito",
+    "descripcion": "Mide volumen de glóbulos rojos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1800.00,
+    "imagen": "Img/Centrífuga para microhematocrito.jpg"
+  },
+  {
+    "nombre": "Centrífuga refrigeradora de pie para banco de sangre",
+    "descripcion": "Conservación de hemoderivados.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 4500.00,
+    "imagen": "Img/Centrífuga refrigeradora de pie para banco de sangre.jpg"
+  },
+  {
+    "nombre": "Centrífuga universal para 14 tubos",
+    "descripcion": "Uso general en laboratorio.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1900.00,
+    "imagen": "Img/Centrífuga universal para 14 tubos.jpg"
+  },
+  {
+    "nombre": "Cistoscopio",
+    "descripcion": "Visualización de vejiga urinaria.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Cistoscopio.jpg"
+  },
+  {
+    "nombre": "Citocentrífuga",
+    "descripcion": "Preparación de muestras citológicas.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 2900.00,
+    "imagen": "Img/Citocentrifuga.jpg"
+  },
+  {
+    "nombre": "Citómetro de flujo",
+    "descripcion": "Análisis celular multiparamétrico.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 18500.00,
+    "imagen": "Img/Citometro de flujo.jpg"
+  },
+  {
+    "nombre": "Coagulómetro automatizado",
+    "descripcion": "Mide tiempos de coagulación.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Coagulometro automatizado.jpg"
+  },
+  {
+    "nombre": "Coche de paro equipado",
+    "descripcion": "Carro de emergencias para reanimación.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Coche de paro equipado.jpg"
+  },
+  {
+    "nombre": "Coloreador automático de tejidos",
+    "descripcion": "Tinción automatizada para histología.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6800.00,
+    "imagen": "Img/Coloreador automático de tejidos.jpg"
+  },
+  {
+    "nombre": "Conservador de medicamentos y reactivos",
+    "descripcion": "Almacenamiento seguro.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1200.00,
+    "imagen": "Img/Conservador de medicamentos y reactivos.jpg"
+  },
+  {
+    "nombre": "Cuna de calor radiante",
+    "descripcion": "Calor controlado para neonatos.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Cuna de calor radiante.jpg"
+  },
+  {
+    "nombre": "Descongelador de plasma",
+    "descripcion": "Descongelación controlada de hemoderivados.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3800.00,
+    "imagen": "Img/Descongelador de plasma.jpg"
+  },
+  {
+    "nombre": "Desfibrilador con monitor y paletas externas",
+    "descripcion": "Reanimación cardiaca avanzada.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Desfibrilador con monitor y paletas externas.jpg"
+  },
+  {
+    "nombre": "Desfibrilador externo automático (DEA)",
+    "descripcion": "Uso en emergencias cardíacas.",
+    "categoria": "Equipo médico",
+    "precio": 2500.00,
+    "imagen": "Img/Desfibrilador externo automático.jpg"
+  },
+  {
+    "nombre": "Destartarizador ultrasónico",
+    "descripcion": "Eliminación de sarro dental.",
+    "categoria": "Dental",
+    "precio": 1200.00,
+    "imagen": "Img/Destartarizador ultrasónico.jpg"
+  },
+  {
+    "nombre": "Detector de latidos fetales de sobremesa",
+    "descripcion": "Monitoreo fetal estacionario.",
+    "categoria": "Equipo médico",
+    "precio": 1800.00,
+    "imagen": "Img/Detector de latidos fetales de sobremesa.jpg"
+  },
+  {
+    "nombre": "Detector de latidos fetales portátil",
+    "descripcion": "Versión móvil para monitoreo fetal.",
+    "categoria": "Equipo médico",
+    "precio": 950.00,
+    "imagen": "Img/Detector de latidos fetales portátil.jpg"
+  },
+  {
+    "nombre": "Doppler transcraneal portátil",
+    "descripcion": "Flujo sanguíneo cerebral no invasivo.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Doppler transcraneal portátil.jpg"
+  },
+  {
+    "nombre": "Ecocardiógrafo doppler",
+    "descripcion": "Imágenes cardíacas con flujo sanguíneo.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Ecocardiógrafo doppler.jpg"
+  },
+  {
+    "nombre": "Ecógrafo doppler color 3d",
+    "descripcion": "Ultrasonido avanzado con volumen.",
+    "categoria": "Equipo médico",
+    "precio": 52000.00,
+    "imagen": "Img/Ecógrafo doppler color 3d.jpg"
+  },
+  {
+    "nombre": "Ecógrafo doppler color 4d",
+    "descripcion": "Imágenes en tiempo real 4D.",
+    "categoria": "Equipo médico",
+    "precio": 68000.00,
+    "imagen": "Img/Ecógrafo doppler color 4d.jpg"
+  },
+  {
+    "nombre": "Ecógrafo obstétrico",
+    "descripcion": "Monitoreo de embarazo.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Ecógrafo obstétrico.jpg"
+  },
+  {
+    "nombre": "Ecógrafo oftalmológico",
+    "descripcion": "Diagnóstico por imágenes del ojo.",
+    "categoria": "Equipo médico",
+    "precio": 28000.00,
+    "imagen": "Img/Ecógrafo oftalmológico.jpg"
+  },
+  {
+    "nombre": "Ecógrafo para evaluar músculo esquelético",
+    "descripcion": "Visualización de tejidos musculares.",
+    "categoria": "Equipo médico",
+    "precio": 35000.00,
+    "imagen": "Img/Ecógrafo para evaluar músculo esquelético.jpg"
+  },
+  {
+    "nombre": "Ecógrafo portátil",
+    "descripcion": "Ultrasonido móvil para diagnósticos rápidos.",
+    "categoria": "Equipo médico",
+    "precio": 18500.00,
+    "imagen": "Img/Ecógrafo portátil.jpeg"
+  },
+  {
+    "nombre": "Electrobisturí monopolar / bipolar digital",
+    "descripcion": "Corte y coagulación quirúrgica.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Electrobisturí monopolar.jpg"
+  },
+  {
+    "nombre": "Electrobisturí monopolar / bipolar digital con pinza hemostática de vasos",
+    "descripcion": "Control avanzado de sangrado.",
+    "categoria": "Equipo médico",
+    "precio": 5800.00,
+    "imagen": "Img/Electrobisturí monopolar 2.jpg"
+  },
+  {
+    "nombre": "Electrobisturí para endoscopia a gas argón",
+    "descripcion": "Coagulación en cirugía endoscópica.",
+    "categoria": "Equipo médico",
+    "precio": 7500.00,
+    "imagen": "Img/Electrobisturí para endoscopia a gas argón.jpg"
+  },
+  {
+    "nombre": "Electrocardiógrafo",
+    "descripcion": "Registro de actividad cardíaca.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Electrocardiógrafo.png"
+  },
+  {
+    "nombre": "Electrocauterio monopolar y bipolar",
+    "descripcion": "Cirugía con control de sangrado.",
+    "categoria": "Equipo médico",
+    "precio": 2800.00,
+    "imagen": "Img/Electrocauterio monopolar y bipolar.jpg"
+  },
+  {
+    "nombre": "Electroencefalógrafo",
+    "descripcion": "Mide ondas cerebrales.",
+    "categoria": "Equipo médico",
+    "precio": 18500.00,
+    "imagen": "Img/Electroencefalografo.jpg"
+  },
+  {
+    "nombre": "Electromiógrafo",
+    "descripcion": "Evaluación de actividad muscular.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Electromiografo.jpg"
+  },
+  {
+    "nombre": "Equipo calentador de fluidos",
+    "descripcion": "Calienta soluciones intravenosas.",
+    "categoria": "Equipo médico",
+    "precio": 1500.00,
+    "imagen": "Img/Equipo calentador de fluidos.jpg"
+  },
+  {
+    "nombre": "Equipo conector de tubuladuras estéril",
+    "descripcion": "Conexiones seguras para fluidos.",
+    "categoria": "Materiales e insumos",
+    "precio": 120.00,
+    "imagen": "Img/Equipo conector de tubuladuras esteril.jpg"
+  },
+  {
+    "nombre": "Equipo de aféresis",
+    "descripcion": "Separación de componentes sanguíneos.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Equipo de aféresis.png"
+  },
+  {
+    "nombre": "Equipo de cirugía neuroendoscópica",
+    "descripcion": "Instrumental para neurocirugía mínimamente invasiva.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Equipo de cirugía neuroendoscopica.jpg"
+  },
+  {
+    "nombre": "Equipo de crioterapia",
+    "descripcion": "Tratamiento con frío extremo.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Equipo de crioterapia.jpg"
+  },
+  {
+    "nombre": "Equipo de crioterapia dermatológica",
+    "descripcion": "Eliminación de lesiones cutáneas.",
+    "categoria": "Equipo médico",
+    "precio": 6800.00,
+    "imagen": "Img/Equipo de crioterapia dermatológica.jpg"
+  },
+  {
+    "nombre": "Equipo de densitometría ósea",
+    "descripcion": "Diagnóstico de osteoporosis.",
+    "categoria": "Equipo médico",
+    "precio": 42000.00,
+    "imagen": "Img/Equipo de densitometria osea.jpg"
+  },
+  {
+    "nombre": "Equipo de electroforesis",
+    "descripcion": "Separación de proteínas o ADN.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3800.00,
+    "imagen": "Img/Equipo de electroforesis.png"
+  },
+  {
+    "nombre": "Equipo de electroterapia de corrientes múltiples",
+    "descripcion": "Rehabilitación muscular.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Equipo de electroterapia de corrientes múltiples.jpg"
+  },
+  {
+    "nombre": "Equipo de fototerapia",
+    "descripcion": "Tratamiento para ictericia neonatal.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Equipo de fototerapia.jpg"
+  },
+  {
+    "nombre": "Equipo de litotripsia extracorpórea",
+    "descripcion": "Fragmentación de cálculos renales.",
+    "categoria": "Equipo médico",
+    "precio": 85000.00,
+    "imagen": "Img/Equipo de litotripsia extracorporea.jpg"
+  },
+  {
+    "nombre": "Equipo de magnetoterapia",
+    "descripcion": "Terapia con campos magnéticos.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Equipo de magnetoterapia.png"
+  },
+  {
+    "nombre": "Equipo de potenciales evocados",
+    "descripcion": "Evaluación de vías nerviosas.",
+    "categoria": "Equipo médico",
+    "precio": 28000.00,
+    "imagen": "Img/Equipo de potenciales evocados.jpg"
+  },
+  {
+    "nombre": "Equipo de rayos X dental rodable digital",
+    "descripcion": "Radiología dental móvil.",
+    "categoria": "Rayos X / Dental",
+    "precio": 32000.00,
+    "imagen": "Img/Equipo de rayos x dental rodable digital.jpg"
+  },
+  {
+    "nombre": "Equipo de rayos X estacionario - no digital",
+    "descripcion": "Radiografía general fija.",
+    "categoria": "Rayos X",
+    "precio": 28000.00,
+    "imagen": "Img/Equipo de rayos x estacionario - no digital.jpg"
+  },
+  {
+    "nombre": "Equipo de rayos X estacionario digital",
+    "descripcion": "Imágenes digitales de alta resolución.",
+    "categoria": "Rayos X",
+    "precio": 45000.00,
+    "imagen": "Img/Equipo de rayos x estacionario digital.jpg"
+  },
+  {
+    "nombre": "Equipo de rayos X estacionario digital con fluoroscopia",
+    "descripcion": "Imágenes en tiempo real.",
+    "categoria": "Rayos X",
+    "precio": 68000.00,
+    "imagen": "Img/Equipo de rayos x estacionario digital con fluoroscopia.png"
+  },
+  {
+    "nombre": "Equipo de rayos X rodable digital",
+    "descripcion": "Radiología móvil digital.",
+    "categoria": "Rayos X",
+    "precio": 52000.00,
+    "imagen": "Img/Equipo de rayos x rodable digital.jpg"
+  },
+  {
+    "nombre": "Equipo de recuperación sanguínea",
+    "descripcion": "Reciclaje de sangre en cirugía.",
+    "categoria": "Equipo médico",
+    "precio": 18500.00,
+    "imagen": "Img/Equipo de recuperación sanguinea.jpg"
+  },
+  {
+    "nombre": "Equipo de terapia combinada (ultrasonido + electroterapia)",
+    "descripcion": "Rehabilitación integral.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Equipo de terapia combinada (ultrasonido + electroterapia).png"
+  },
+  {
+    "nombre": "Equipo de terapia con onda corta",
+    "descripcion": "Tratamiento de inflamación.",
+    "categoria": "Equipo médico",
+    "precio": 6800.00,
+    "imagen": "Img/Equipo de terapia con onda corta.jpg"
+  },
+  {
+    "nombre": "Equipo de terapia con ultrasonido",
+    "descripcion": "Fisioterapia por ultrasonido.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Equipo de terapia con ultrasonido.jpg"
+  },
+  {
+    "nombre": "Equipo de terapia láser",
+    "descripcion": "Tratamientos médicos con láser.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Equipo de terapia laser.png"
+  },
+  {
+    "nombre": "Equipo digitalizador de películas radiográficas",
+    "descripcion": "Conversión a formato digital.",
+    "categoria": "Rayos X",
+    "precio": 8500.00,
+    "imagen": "Img/Equipo digitalizador de películas radiográficas.jpg"
+  },
+  {
+    "nombre": "Espectrofotómetro",
+    "descripcion": "Mide absorbancia de muestras.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Espectrofotometro.jpg"
+  },
+  {
+    "nombre": "Espirómetro computarizado",
+    "descripcion": "Evaluación de función pulmonar.",
+    "categoria": "Equipo médico",
+    "precio": 3800.00,
+    "imagen": "Img/Espirometro computarizado.jpg"
+  },
+  {
+    "nombre": "Espirómetro portátil",
+    "descripcion": "Versión móvil para pruebas respiratorias.",
+    "categoria": "Equipo médico",
+    "precio": 2500.00,
+    "imagen": "Img/Espirometro portátil.png"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico a vapor de 50 litros",
+    "descripcion": "Esterilización por autoclave.",
+    "categoria": "Esterilización",
+    "precio": 6800.00,
+    "imagen": "Img/Esterilizador con generador eléctrico a vapor de 50 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor (dual) de 150/200 litros con doble puerta",
+    "descripcion": "Gran capacidad para hospitales.",
+    "categoria": "Esterilización",
+    "precio": 18500.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor (dual).jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor de 100 litros",
+    "descripcion": "Esterilización de mediana capacidad.",
+    "categoria": "Esterilización",
+    "precio": 12500.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor de 100 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor de 150/200 litros",
+    "descripcion": "Para grandes volúmenes de material.",
+    "categoria": "Esterilización",
+    "precio": 15000.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor de 150.jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor de 20 litros",
+    "descripcion": "Pequeña capacidad para clínicas.",
+    "categoria": "Esterilización",
+    "precio": 3200.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor de 20 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor de 30 litros",
+    "descripcion": "Versión compacta para consultorios.",
+    "categoria": "Esterilización",
+    "precio": 3800.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor de 30 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor de 40 litros",
+    "descripcion": "Capacidad intermedia para esterilización.",
+    "categoria": "Esterilización",
+    "precio": 4500.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor de 40 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador con generador eléctrico de vapor vertical de 30 litros",
+    "descripcion": "Diseño vertical para ahorro de espacio.",
+    "categoria": "Esterilización",
+    "precio": 4200.00,
+    "imagen": "Img/Esterilizador con generador eléctrico de vapor vertical de 30 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador de baja temperatura - peróxido de hidrógeno 70 litros",
+    "descripcion": "Para termolábiles.",
+    "categoria": "Esterilización",
+    "precio": 12500.00,
+    "imagen": "Img/Esterilizador de baja temperatura - peróxido de hidrógeno 70 litros.jpg"
+  },
+  {
+    "nombre": "Esterilizador para biberones",
+    "descripcion": "Esterilización rápida para neonatos.",
+    "categoria": "Esterilización",
+    "precio": 250.00,
+    "imagen": "Img/Esterilizador para biberones.jpg"
+  },
+  {
+    "nombre": "Esterilizador por calor seco 50 litros",
+    "descripcion": "Para materiales resistentes a altas temperaturas.",
+    "categoria": "Esterilización",
+    "precio": 3200.00,
+    "imagen": "Img/Esterilizador por calor seco 50 litros.png"
+  },
+  {
+    "nombre": "Estimulador nervioso transcutáneo (TENS)",
+    "descripcion": "Alivio del dolor no invasivo.",
+    "categoria": "Equipo médico",
+    "precio": 350.00,
+    "imagen": "Img/Estimulador nervioso transcutaneo (tens).png"
+  },
+  {
+    "nombre": "Extractos de plasma",
+    "descripcion": "Separación de componentes sanguíneos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 2800.00,
+    "imagen": "Img/Extractor de plasma.jpg"
+  },
+  {
+    "nombre": "Fotocoagulador",
+    "descripcion": "Equipo láser para tratamientos oftalmológicos.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Fotocoagulador.jpg"
+  },
+  {
+    "nombre": "Fuente de braquiterapia",
+    "descripcion": "Terapia de radiación interna.",
+    "categoria": "Equipo médico",
+    "precio": 85000.00,
+    "imagen": "Img/Fuente de braquiterapia.jpg"
+  },
+  {
+    "nombre": "Hemobáscula digital programable con mesa baja",
+    "descripcion": "Balanza para banco de sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Hemobáscula digital programable con mesa baja.jpg"
+  },
+  {
+    "nombre": "Hemoglobinómetro",
+    "descripcion": "Mide niveles de hemoglobina en sangre.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 450.00,
+    "imagen": "Img/Hemoglobinometro.png"
+  },
+  {
+    "nombre": "Holter",
+    "descripcion": "Monitor cardíaco ambulatorio.",
+    "categoria": "Equipo médico",
+    "precio": 5200.00,
+    "imagen": "Img/Holter.jpg"
+  },
+  {
+    "nombre": "Horno de hibridación",
+    "descripcion": "Para técnicas de biología molecular.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6800.00,
+    "imagen": "Img/Horno de hibridación.png"
+  },
+  {
+    "nombre": "Incubadora de microbiología CO₂",
+    "descripcion": "Cultivo de microorganismos en atmósfera controlada.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 8500.00,
+    "imagen": "Img/Incubadora de microbiología co2.jpg"
+  },
+  {
+    "nombre": "Incubadora de microbiología de 30 a 40 litros",
+    "descripcion": "Para cultivos bacterianos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Incubadora de microbiología de 30 a 40 litros.jpg"
+  },
+  {
+    "nombre": "Incubadora de microbiología de 50 litros mínimo",
+    "descripcion": "Mayor capacidad para cultivos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6800.00,
+    "imagen": "Img/Incubadora de microbiología de 50 litros mínimo.png"
+  },
+  {
+    "nombre": "Incubadora de transporte",
+    "descripcion": "Mantiene condiciones durante traslados.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Incubadora de transporte.jpg"
+  },
+  {
+    "nombre": "Incubadora estándar",
+    "descripcion": "Mantiene condiciones para cultivos celulares.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3800.00,
+    "imagen": "Img/Incubadora estándar.jpg"
+  },
+  {
+    "nombre": "Incubadora neonatal abierta",
+    "descripcion": "Control térmico para recién nacidos.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Incubadora neonatal abierta.jpg"
+  },
+  {
+    "nombre": "Incubadora neonatal abierta para UCI",
+    "descripcion": "Para cuidados intensivos neonatales.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Incubadora neonatal abierta para UCI.jpg"
+  },
+  {
+    "nombre": "Incubadora para cultivo",
+    "descripcion": "Ambiente controlado para crecimiento celular.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 4500.00,
+    "imagen": "Img/Incubadora para cultivo.png"
+  },
+  {
+    "nombre": "Lámpara de fotocurado",
+    "descripcion": "Polimeriza resinas dentales.",
+    "categoria": "Dental",
+    "precio": 350.00,
+    "imagen": "Img/Lámpara de fotocurado.jpg"
+  },
+  {
+    "nombre": "Lámpara de hendidura con tonómetro de aplanación",
+    "descripcion": "Diagnóstico oftalmológico.",
+    "categoria": "Equipo médico",
+    "precio": 6800.00,
+    "imagen": "Img/Lámpara de hendidura con tonómetro de aplanación.jpg"
+  },
+  {
+    "nombre": "Lámpara de hendidura portátil",
+    "descripcion": "Versión móvil para exámenes oculares.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Lámpara de hendidura portátil.jpg"
+  },
+  {
+    "nombre": "Lámpara de terapia rayos infrarrojos",
+    "descripcion": "Tratamientos de fisioterapia.",
+    "categoria": "Equipo médico",
+    "precio": 850.00,
+    "imagen": "Img/Lámpara de terapia rayos infrarrojos.jpg"
+  },
+  {
+    "nombre": "Lámpara de terapia rayos ultravioletas",
+    "descripcion": "Para tratamientos dermatológicos.",
+    "categoria": "Equipo médico",
+    "precio": 950.00,
+    "imagen": "Img/Lámpara de terapia rayos ultravioletas.jpg"
+  },
+  {
+    "nombre": "Lámpara quirúrgica de techo de intensidad alta",
+    "descripcion": "Iluminación potente para cirugías.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Lámpara quirúrgica de techo de intensidad alta.jpg"
+  },
+  {
+    "nombre": "Lámpara quirúrgica de techo simple",
+    "descripcion": "Iluminación básica para procedimientos.",
+    "categoria": "Equipo médico",
+    "precio": 1800.00,
+    "imagen": "Img/Lámpara quirúrgica de techo simple.jpg"
+  },
+  {
+    "nombre": "Lámpara quirúrgica rodable",
+    "descripcion": "Iluminación móvil para quirófano.",
+    "categoria": "Equipo médico",
+    "precio": 2500.00,
+    "imagen": "Img/Lámpara quirúrgica rodable.png"
+  },
+  {
+    "nombre": "Lavadora de microplacas de ELISA",
+    "descripcion": "Limpieza automatizada para inmunoensayos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Lavadora de microplacas de elisa.jpg"
+  },
+  {
+    "nombre": "Lavadora ultrasónica de instrumental quirúrgico",
+    "descripcion": "Esterilización por ultrasonido.",
+    "categoria": "Esterilización",
+    "precio": 4500.00,
+    "imagen": "Img/Lavadora ultrasónico de instrumental quirúrgico.jpg"
+  },
+  {
+    "nombre": "Lector de ELISA",
+    "descripcion": "Análisis cuantitativo de inmunoensayos.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Lector de elisa.png"
+  },
+  {
+    "nombre": "Lensómetro digital con uveómetro",
+    "descripcion": "Mide graduación de lentes oftálmicos.",
+    "categoria": "Equipo médico",
+    "precio": 3800.00,
+    "imagen": "Img/Lensometro digital con uveometro.jpg"
+  },
+  {
+    "nombre": "Mamógrafo digital",
+    "descripcion": "Detección temprana de cáncer de mama.",
+    "categoria": "Rayos X",
+    "precio": 85000.00,
+    "imagen": "Img/Mamógrafo digital.jpg"
+  },
+  {
+    "nombre": "Máquina de anestesia con monitoreo avanzado",
+    "descripcion": "Administración controlada de anestésicos.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Máquina de anestesia con monitoreo avanzado.png"
+  },
+  {
+    "nombre": "Máquina de anestesia con monitoreo básico",
+    "descripcion": "Para procedimientos quirúrgicos generales.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Máquina de anestesia con monitoreo básico.jpg"
+  },
+  {
+    "nombre": "Máquina de anestesia con monitoreo básico para RM",
+    "descripcion": "Compatibilidad con resonancia magnética.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Máquina de anestesia con monitoreo básico para rm.jpg"
+  },
+  {
+    "nombre": "Máquina de circulación extracorpórea",
+    "descripcion": "Soporte vital durante cirugías cardíacas.",
+    "categoria": "Equipo médico",
+    "precio": 85000.00,
+    "imagen": "Img/Máquina de circulación extracorpórea.png"
+  },
+  {
+    "nombre": "Máquina de diálisis peritoneal",
+    "descripcion": "Tratamiento para insuficiencia renal.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Máquina de diálisis peritoneal.jpg"
+  },
+  {
+    "nombre": "Máquina de diálisis peritoneal automatizada",
+    "descripcion": "Versión automatizada para mayor precisión.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Máquina de diálisis peritoneal automatizada.jpg"
+  },
+  {
+    "nombre": "Máquina de hemodiafiltración",
+    "descripcion": "Terapia combinada para diálisis.",
+    "categoria": "Equipo médico",
+    "precio": 52000.00,
+    "imagen": "Img/Máquina de hemodiafiltración.jpg"
+  },
+  {
+    "nombre": "Máquina de hemodiálisis",
+    "descripcion": "Filtra sangre en pacientes con insuficiencia renal.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Máquina de hemodiálisis.jpg"
+  },
+  {
+    "nombre": "Marcapasos cardíaco temporal",
+    "descripcion": "Estimulación eléctrica del corazón.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Marcapasos cardiaco temporal.jpg"
+  },
+  {
+    "nombre": "Mesa de operaciones hidráulica/eléctrica",
+    "descripcion": "Soporte ajustable para cirugía.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Mesa de operaciones hidráulica.jpg"
+  },
+  {
+    "nombre": "Mesa de operaciones mecánica/hidráulica",
+    "descripcion": "Versión manual o semiautomática.",
+    "categoria": "Equipo médico",
+    "precio": 9800.00,
+    "imagen": "Img/Mesa de operaciones mecánica.jpg"
+  },
+  {
+    "nombre": "Microscopio binocular con contraste de fase",
+    "descripcion": "Para observación de muestras sin tinción.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Microscopio binocular con contraste de fase.jpg"
+  },
+  {
+    "nombre": "Microscopio binocular de doble cabezal",
+    "descripcion": "Permite observación simultánea.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 4500.00,
+    "imagen": "Img/Microscopio binocular de doble cabezal.png"
+  },
+  {
+    "nombre": "Microscopio binocular estándar",
+    "descripcion": "Uso general en laboratorio.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Microscopio binocular estandar.jpg"
+  },
+  {
+    "nombre": "Microscopio de inmunofluorescencia",
+    "descripcion": "Para diagnóstico con marcadores fluorescentes.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 12500.00,
+    "imagen": "Img/Microscopio de inmunofluorescencia.jpg"
+  },
+  {
+    "nombre": "Microscopio invertido binocular",
+    "descripcion": "Para cultivos celulares.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 8500.00,
+    "imagen": "Img/Microscopio invertido binocular.jpg"
+  },
+  {
+    "nombre": "Microscopio quirúrgico para neurocirugía",
+    "descripcion": "Ampliación de campo en cirugías cerebrales.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Microscopio quirúrgico para neurocirugía.jpg"
+  },
+  {
+    "nombre": "Microscopio quirúrgico para oftalmología",
+    "descripcion": "Precisión en cirugías oculares.",
+    "categoria": "Equipo médico",
+    "precio": 38000.00,
+    "imagen": "Img/Microscopio quirúrgico para oftalmología.jpg"
+  },
+  {
+    "nombre": "Microscopio quirúrgico para oftalmología (cámara incorporada y visor adicional para docencia)",
+    "descripcion": "Con sistema de grabación y enseñanza.",
+    "categoria": "Equipo médico",
+    "precio": 52000.00,
+    "imagen": "Img/Microscopio quirúrgico para oftalmología (cámara incorporada y visor adicional para docencia).jpg"
+  },
+  {
+    "nombre": "Microscopio quirúrgico para otorrinolaringología",
+    "descripcion": "Para cirugías de oído, nariz y garganta.",
+    "categoria": "Equipo médico",
+    "precio": 42000.00,
+    "imagen": "Img/Microscopio quirúrgico para otorrinolaringologia.jpg"
+  },
+  {
+    "nombre": "Microscopio trinocular con cámara incorporada",
+    "descripcion": "Para documentación de muestras.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6800.00,
+    "imagen": "Img/Microscopio trinocular con cámara incorporada.jpg"
+  },
+  {
+    "nombre": "Microscopio por rotación",
+    "descripcion": "Para análisis de muestras en movimiento.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 5200.00,
+    "imagen": "Img/Microscopio por rotación.jpg"
+  },
+  {
+    "nombre": "Monitor de funciones vitales de 5 parámetros",
+    "descripcion": "Seguimiento básico de signos clínicos.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Monitor de funciones vitales de 5 parámetros.png"
+  },
+  {
+    "nombre": "Monitor de funciones vitales de 6 parámetros",
+    "descripcion": "Incluye medición adicional (ej. temperatura).",
+    "categoria": "Equipo médico",
+    "precio": 3800.00,
+    "imagen": "Img/Monitor de funciones vitales de 6 parámetros.jpg"
+  },
+  {
+    "nombre": "Monitor de funciones vitales de 7 parámetros",
+    "descripcion": "Monitoreo avanzado de pacientes.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Monitor de funciones vitales de 7 parámetros.jpg"
+  },
+  {
+    "nombre": "Monitor de funciones vitales de 8 parámetros",
+    "descripcion": "Seguimiento integral en UCI.",
+    "categoria": "Equipo médico",
+    "precio": 5200.00,
+    "imagen": "Img/Monitor de funciones vitales de 8 parámetros.jpg"
+  },
+  {
+    "nombre": "Monitor de funciones vitales de transporte",
+    "descripcion": "Versión portátil para ambulancias.",
+    "categoria": "Equipo médico",
+    "precio": 6800.00,
+    "imagen": "Img/Monitor de funciones vitales de transporte.jpg"
+  },
+  {
+    "nombre": "Monitor de gasto cardíaco",
+    "descripcion": "Mide el volumen de sangre bombeado por el corazón.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Monitor de gasto cardiaco.png"
+  },
+  {
+    "nombre": "Monitor fetal",
+    "descripcion": "Registro de frecuencia cardíaca fetal.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Monitor fetal.jpg"
+  },
+  {
+    "nombre": "Monitor fetal gemelar",
+    "descripcion": "Para embarazos múltiples.",
+    "categoria": "Equipo médico",
+    "precio": 6800.00,
+    "imagen": "Img/Monitor fetal gemelar.jpg"
+  },
+  {
+    "nombre": "Nebulizador",
+    "descripcion": "Convierte medicamentos en aerosol para inhalación.",
+    "categoria": "Equipo médico",
+    "precio": 120.00,
+    "imagen": "Img/Nebulizador.jpg"
+  },
+  {
+    "nombre": "Neuroestimulador y bloqueador de nervio periférico",
+    "descripcion": "Anestesia regional.",
+    "categoria": "Equipo médico",
+    "precio": 8500.00,
+    "imagen": "Img/Neuroestimulador y bloqueador de nervio periférico.jpg"
+  },
+  {
+    "nombre": "Procesador automático de tejidos",
+    "descripcion": "Preparación de muestras histológicas.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 32000.00,
+    "imagen": "Img/Procesador automático de tejidos.jpg"
+  },
+  {
+    "nombre": "Proctosigmoidoscopio",
+    "descripcion": "Visualización de recto y colon sigmoide.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Proctosigmoidoscopio.jpg"
+  },
+  {
+    "nombre": "Pulsioxímetro",
+    "descripcion": "Mide saturación de oxígeno en sangre.",
+    "categoria": "Equipo médico",
+    "precio": 250.00,
+    "imagen": "Img/Pulsioxímetro.jpg"
+  },
+  {
+    "nombre": "Pulsioxímetro portátil",
+    "descripcion": "Versión móvil para monitoreo.",
+    "categoria": "Equipo médico",
+    "precio": 350.00,
+    "imagen": "Img/Pulsioxímetro portátil.jpg"
+  },
+  {
+    "nombre": "Resonador magnético",
+    "descripcion": "Imágenes de alta resolución sin radiación.",
+    "categoria": "Equipo médico",
+    "precio": 850000.00,
+    "imagen": "Img/Resonador magnético.jpeg"
+  },
+  {
+    "nombre": "Rotador de plaquetas",
+    "descripcion": "Homogeneiza bolsas de plaquetas.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Rotador de plaquetas.jpg"
+  },
+  {
+    "nombre": "Rotador orbital",
+    "descripcion": "Mezcla suave de muestras en laboratorio.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1800.00,
+    "imagen": "Img/Rotador orbital.jpg"
+  },
+  {
+    "nombre": "Rotador serológico",
+    "descripcion": "Para pruebas de aglutinación.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 1500.00,
+    "imagen": "Img/Rotador serológico.jpg"
+  },
+  {
+    "nombre": "Secadora de lámina de muestras de tejidos",
+    "descripcion": "Para histología.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 2500.00,
+    "imagen": "Img/Secadora de lamina de muestras de tejidos.jpg"
+  },
+  {
+    "nombre": "Sellador de tubuladuras",
+    "descripcion": "Cierre hermético de bolsas médicas.",
+    "categoria": "Materiales e insumos",
+    "precio": 850.00,
+    "imagen": "Img/Sellador de tubuladuras.jpg"
+  },
+  {
+    "nombre": "Sellador de tubuladuras portátil",
+    "descripcion": "Versión móvil para emergencias.",
+    "categoria": "Materiales e insumos",
+    "precio": 1200.00,
+    "imagen": "Img/Sellador de tubuladuras portátil.jpg"
+  },
+  {
+    "nombre": "Sierra neumática oscilante",
+    "descripcion": "Corte óseo en cirugía.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Sierra neumática oscilante.jpg"
+  },
+  {
+    "nombre": "Sistema de inclusión integrada (para tejidos)",
+    "descripcion": "Preparación de bloques de parafina.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 6800.00,
+    "imagen": "Img/Sistema de inclusión integrada (para tejidos).png"
+  },
+  {
+    "nombre": "Sistema MAPA (monitoreo de presión ambulatoria continua)",
+    "descripcion": "Registro de presión arterial por 24h.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Sistema mapa (monitoreo de presión ambulatoria continua).jpg"
+  },
+  {
+    "nombre": "Sistema para pruebas de placas",
+    "descripcion": "Análisis de sensibilidad antimicrobiana.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 4500.00,
+    "imagen": "Img/Sistema para pruebas de placas.jpg"
+  },
+  {
+    "nombre": "Sistema PET/CT",
+    "descripcion": "Diagnóstico por imágenes metabólicas y anatómicas.",
+    "categoria": "Equipo médico",
+    "precio": 1200000.00,
+    "imagen": "Img/Sistema pet.jpg"
+  },
+  {
+    "nombre": "Sonicador",
+    "descripcion": "Homogeneización de muestras por ultrasonido.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 3200.00,
+    "imagen": "Img/Sonicador.png"
+  },
+  {
+    "nombre": "Tanque Hubbard",
+    "descripcion": "Hidroterapia para rehabilitación.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Tanque hubbard.jpg"
+  },
+  {
+    "nombre": "Termociclador",
+    "descripcion": "Amplificación de ADN (PCR).",
+    "categoria": "Equipo de laboratorio",
+    "precio": 8500.00,
+    "imagen": "Img/Termociclador.jpg"
+  },
+  {
+    "nombre": "Tonómetro de aire",
+    "descripcion": "Medición de presión intraocular sin contacto.",
+    "categoria": "Equipo médico",
+    "precio": 3200.00,
+    "imagen": "Img/Tonómetro de aire.jpg"
+  },
+  {
+    "nombre": "Tonómetro de Schiotz",
+    "descripcion": "Medición de presión intraocular tradicional.",
+    "categoria": "Equipo médico",
+    "precio": 450.00,
+    "imagen": "Img/Tonómetro de schiotz.jpg"
+  },
+  {
+    "nombre": "Torre de video cirugía artroscópica",
+    "descripcion": "Visualización en cirugías articulares.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Torre de video cirugía artroscópica.jpg"
+  },
+  {
+    "nombre": "Torre de video cirugía histeroscópica",
+    "descripcion": "Para procedimientos ginecológicos.",
+    "categoria": "Equipo médico",
+    "precio": 38000.00,
+    "imagen": "Img/Torre de video cirugía histeroscópica.jpg"
+  },
+  {
+    "nombre": "Torre de video cirugía laparoscópica",
+    "descripcion": "Imágenes en cirugía mínimamente invasiva.",
+    "categoria": "Equipo médico",
+    "precio": 52000.00,
+    "imagen": "Img/Torre de video cirugía laparoscópica.jpg"
+  },
+  {
+    "nombre": "Torre de video endoscópica",
+    "descripcion": "Sistema completo para endoscopias.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Torre de video endoscópica.jpg"
+  },
+  {
+    "nombre": "Tromboelastógrafo",
+    "descripcion": "Análisis de coagulación sanguínea.",
+    "categoria": "Equipo de laboratorio",
+    "precio": 68000.00,
+    "imagen": "Img/Tromboelastógrafo.jpg"
+  },
+  {
+    "nombre": "Unidad dental completa",
+    "descripcion": "Equipo integral para consultorio odontológico.",
+    "categoria": "Dental",
+    "precio": 25000.00,
+    "imagen": "Img/Unidad dental completa.jpg"
+  },
+  {
+    "nombre": "Vacuum extractor eléctrico",
+    "descripcion": "Auxiliar en partos.",
+    "categoria": "Equipo médico",
+    "precio": 4500.00,
+    "imagen": "Img/Vacuum extractor eléctrico.jpg"
+  },
+  {
+    "nombre": "Ventilador de transporte",
+    "descripcion": "Soporte respiratorio móvil.",
+    "categoria": "Equipo médico",
+    "precio": 12500.00,
+    "imagen": "Img/Ventilador de transporte.png"
+  },
+  {
+    "nombre": "Ventilador mecánico adulto - pediátrico - neonatal",
+    "descripcion": "Soporte vital para todas las edades.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Ventilador mecánico adulto - pediátrico - neonatal.jpg"
+  },
+  {
+    "nombre": "Ventilador mecánico adulto pediátrico",
+    "descripcion": "Para pacientes desde niños hasta adultos.",
+    "categoria": "Equipo médico",
+    "precio": 38000.00,
+    "imagen": "Img/Ventilador mecánico adulto pediátrico.jpg"
+  },
+  {
+    "nombre": "Ventilador mecánico neonatal",
+    "descripcion": "Especializado para recién nacidos.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Ventilador mecánico neonatal.jpg"
+  },
+  {
+    "nombre": "Video broncoscopio",
+    "descripcion": "Endoscopia respiratoria con imagen digital.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Video broncoscopio.jpg"
+  },
+  {
+    "nombre": "Video cistoresectoscopio",
+    "descripcion": "Para procedimientos urológicos.",
+    "categoria": "Equipo médico",
+    "precio": 38000.00,
+    "imagen": "Img/Video cistoresectoscopio.jpg"
+  },
+  {
+    "nombre": "Video colonoscopio",
+    "descripcion": "Exploración de colon con alta definición.",
+    "categoria": "Equipo médico",
+    "precio": 52000.00,
+    "imagen": "Img/Video colonoscopio.jpg"
+  },
+  {
+    "nombre": "Video colposcopio",
+    "descripcion": "Examen ginecológico con aumento.",
+    "categoria": "Equipo médico",
+    "precio": 32000.00,
+    "imagen": "Img/Video colposcopio.jpg"
+  },
+  {
+    "nombre": "Video gastroscopio",
+    "descripcion": "Endoscopia digestiva superior.",
+    "categoria": "Equipo médico",
+    "precio": 45000.00,
+    "imagen": "Img/Video gastroscopio.jpeg"
+  },
+  {
+    "nombre": "Video nasofibroscopio",
+    "descripcion": "Exploración de vías nasales y faríngeas.",
+    "categoria": "Equipo médico",
+    "precio": 38000.00,
+    "imagen": "Img/Video nasofibroscopio.jpg"
+  },
+  {
+    "nombre": "Video toracoscopio",
+    "descripcion": "Cirugía torácica mínimamente invasiva.",
+    "categoria": "Equipo médico",
+    "precio": 52000.00,
+    "imagen": "Img/Video toracoscopio.jpg"
+  }
+]

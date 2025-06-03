@@ -1,0 +1,672 @@
+/* Estilos Generales */
+:root {
+  --color-primario: #0077B6;
+  --color-secundario: #FFD700;
+  --color-texto: #333;
+  --color-fondo: #f8fafc;
+}
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
+  background:  #f8fafc;
+  color: #333;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #ffffff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  color: white;
+}
+
+.logo img {
+  height: auto;
+  width: 290px;
+  transition: transform 0.3s;
+}
+
+.logo img:hover {
+  transform: scale(1.03);
+}
+
+.menu-toggle {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: var(--color-primario);
+}
+
+nav {
+  display: flex;
+  background-color: #54b0ee;
+  border-radius: 2rem;
+  padding: 0.8rem 1.5rem;
+}
+
+nav a {
+  margin: 0 1.5rem;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  position: relative;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: var(--color-secundario);
+}
+
+nav a::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--color-secundario);
+  transition: width 0.3s;
+}
+
+nav a:hover::after {
+  width: 100%;
+}
+
+/* Sección Principal */
+.hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.hero-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(41, 39, 37, 0.6);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: white;
+  padding: 2rem;
+  max-width: 800px;
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 5vw, 3.5rem);
+  margin-bottom: 1.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero h1 span {
+  color: var(--color-secundario);
+}
+
+.hero-subtitle {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.hero-button {
+  background: #f4f7f5;
+  color: #0c0c0c;
+  padding: 12px 30px;
+  border-radius: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s;
+  display: inline-block;
+  border: 2px solid transparent;
+}
+
+.hero-button:hover {
+  background: transparent;
+  color: var(--color-secundario);
+  border-color: var(--color-secundario);
+  transform: translateY(-3px);
+}
+
+/* Ofertas */
+.ofertas {
+  padding: 4rem 1rem;
+  background: var(--color-fondo);
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 3rem;
+  color: var(--color-primario);
+}
+
+.section-title span {
+  color: var(--color-secundario);
+}
+
+.swiper {
+  width: 100%;
+  padding: 20px 0 40px;
+}
+
+.oferta-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  background: white;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s;
+  margin: 0 10px;
+  position: relative;
+}
+
+.oferta-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0, 119, 182, 0.15);
+}
+
+.oferta-tag {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: #f74943;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  z-index: 2;
+}
+
+.oferta-card img {
+   width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border-bottom: 3px solid var(--color-primario);
+}
+
+.oferta-info {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.oferta-info h3 {
+  color: var(--color-primario);
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.precio-antiguo {
+  text-decoration: line-through;
+  color: #999;
+  margin-bottom: 0.3rem;
+}
+
+.precio-oferta {
+  font-size: 1.5rem;
+  color: var(--color-primario);
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.oferta-button {
+  background: var(--color-primario);
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.3s;
+  font-weight: 600;
+}
+
+.oferta-button:hover {
+  background: #005b8c;
+  transform: translateY(-2px);
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: var(--color-primario) !important;
+  background: rgba(255, 255, 255, 0.9);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  transform: scale(1.1);
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 1.5rem !important;
+  font-weight: bold;
+}
+
+/* Filtros */
+.filter {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: white;
+}
+
+.filter input,
+.filter select {
+  padding: 0.8rem 1.2rem;
+  border-radius: 30px;
+  border: 1px solid #ddd;
+  margin: 0 0.5rem;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s;
+}
+
+.filter input {
+  width: 300px;
+  max-width: 100%;
+}
+
+.filter select {
+  cursor: pointer;
+}
+
+.filter input:focus,
+.filter select:focus {
+  border-color: var(--color-primario);
+  box-shadow: 0 0 0 2px rgba(0, 119, 182, 0.2);
+}
+
+/* Productos */
+.products {
+  padding: 3rem 1rem;
+  background: var(--color-fondo);
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 1rem 0;
+}
+
+.product {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.product:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0, 119, 182, 0.1);
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-height: 220px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  border-bottom: 3px solid var(--color-primario);
+}
+
+.product h3 {
+  padding: 1.2rem 1rem 0.5rem;
+  color: var(--color-primario);
+  font-size: 1.1rem;
+}
+
+.product p {
+  padding: 0 1rem 1.2rem;
+  color: #666;
+}
+
+.product .price {
+  color: var(--color-primario);
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding-bottom: 1.5rem;
+}
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 2000;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.modal-content {
+  background: white;
+  width: 100%;
+  max-width: 900px;
+  border-radius: 15px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  animation: modalFadeIn 0.4s;
+}
+
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 2rem;
+  color: #aaa;
+  cursor: pointer;
+  transition: color 0.3s;
+  z-index: 3;
+}
+
+.close:hover {
+  color: var(--color-primario);
+}
+
+.modal-content img {
+  width: 80%;
+  height: auto;
+  max-height: 500px;
+  object-fit: contain;
+  padding: 1rem; /* Opcional para mejor presentación */
+  display: block;
+  margin: auto;
+}
+
+.modal-info {
+  width: 50%;
+  padding: 2.5rem;
+  position: relative;
+}
+
+.modal-info h2 {
+  color: var(--color-primario);
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.modal-info p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.modal-info h3 {
+  color: var(--color-primario);
+  font-size: 1.8rem;
+  margin: 1.5rem 0;
+}
+
+.whatsapp-btn {
+  background: #25D366;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 1rem;
+}
+
+.whatsapp-btn:hover {
+  background: #128C7E;
+  transform: translateY(-2px);
+}
+
+/* Footer */
+footer {
+  background: #252531;
+  color: white;
+  padding: 3rem 1rem 1.5rem;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto 2rem;
+  gap: 2rem;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 250px;
+}
+
+.footer-section h3 {
+  margin-bottom: 1.2rem;
+  font-size: 1.3rem;
+  color: var(--color-secundario);
+}
+
+.footer-section p {
+  margin-bottom: 0.8rem;
+}
+
+.copyright {
+  text-align: center;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* WhatsApp Float */
+.whatsapp-float {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 70px;
+  height: 70px;
+  background: #25D366;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  transition: all 0.3s;
+}
+
+.whatsapp-float:hover {
+  transform: scale(1.1);
+  background: #128C7E;
+}
+
+.whatsapp-float img {
+  width: 40px;
+  height: 40px;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .modal-content {
+    flex-direction: column;
+    max-width: 600px;
+  }
+  
+  .modal-content img {
+    width: 100%;
+    height: 300px;
+  }
+  
+  .modal-info {
+    width: 100%;
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+  
+  nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+    padding: 1rem;
+    flex-direction: column;
+    background: var(--color-primario);
+  }
+  
+  nav.active {
+    display: flex;
+  }
+  
+  nav a {
+    margin: 0.8rem 0;
+    text-align: center;
+  }
+  
+  .hero {
+    min-height: 60vh;
+  }
+  
+  .hero-content {
+    padding: 1.5rem;
+  }
+  
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+  
+  .filter {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .filter input,
+  .filter select {
+    width: 100%;
+    margin: 0;
+  }
+  
+  .swiper-button-prev,
+  .swiper-button-next {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .whatsapp-float {
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .whatsapp-float img {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo img {
+    width: 220px;
+  }
+  
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+  
+  .hero-button {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+  
+  .section-title {
+    font-size: 1.8rem;
+  }
+  
+  .oferta-card img,
+  .product img {
+    height: 180px;
+  }
+  
+  .modal-info h2 {
+    font-size: 1.5rem;
+  }
+  
+  .modal-info h3 {
+    font-size: 1.5rem;
+  }
+}
+.footer-section a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-section a:hover {
+  color: var(--color-secundario);
+}
+
