@@ -1,7 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
   let productos = [];
   let swiperInstance = null;
-
+console.log('Script cargado correctamente');
+console.log('Swiper disponible:', typeof Swiper !== 'undefined');
+console.log('Elemento swiper-wrapper:', document.querySelector('.swiper-wrapper'));
   // ============ VARIABLES GLOBALES ============
   const productGrid = document.querySelector('.product-grid');
   const searchInput = document.getElementById('searchInput');
